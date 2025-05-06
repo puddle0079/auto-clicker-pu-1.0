@@ -1,0 +1,1 @@
+# auto-clicker-pu-1.0
